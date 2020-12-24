@@ -1,0 +1,13 @@
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.csprojAssemblyReference.cache
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.AssemblyInfoInputs.cache
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.AssemblyInfo.cs
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.csproj.CoreCompileInputs.cache
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.exe
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.deps.json
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.runtimeconfig.json
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.runtimeconfig.dev.json
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.dll
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\CourseCSharp.pdb
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.dll
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.pdb
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.genruntimeconfig.cache
