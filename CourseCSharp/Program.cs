@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using CourseCSharp;
 using CourseCSharp.Fundamentos;
+using CourseCSharp.EstruturasDeControle;
 
 namespace CursoCSharp
 {
@@ -11,6 +12,7 @@ namespace CursoCSharp
         {
             var central = new CentralDeExercicios(new Dictionary<string, Action>()
             {
+                // Fundamentos
                 {
                     "Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar
                 },
@@ -55,6 +57,38 @@ namespace CursoCSharp
                 },
                 {
                     "Operador Ternário - Fundamentos", OperadorTernario.Executar
+                },
+
+                // Estruturas de Controle
+                {
+                    "Estrutura If - Estruturas de Controle", EstruturaIf.Executar
+                },
+                {
+                    "Estrutura If/Else - Estruturas de Controle", EstruturaIfElse.Executar
+                },
+                {
+                    "Estrutura If/Else/If - Estruturas de Controle", EstruturaIfElseIf.Executar
+                },
+                {
+                    "Estrutura Switch - Estruturas de Controle", EstruturaSwitch.Executar
+                },
+                {
+                    "Estrutura While - Estruturas de Controle", EstruturaWhile.Executar
+                },
+                {
+                    "Estrutura Do While - Estruturas de Controle", EstruturaDoWhile.Executar
+                },
+                {
+                    "Estrutura For - Estruturas de Controle", EstruturaFor.Executar
+                },
+                {
+                    "Estrutura Foreach - Estruturas de Controle", EstruturaForEach.Executar
+                },
+                {
+                    "Usando Break - Estruturas de Controle", UsandoBreak.Executar
+                },
+                {
+                    "Usando Continue - Estruturas de Controle", UsandoContinue.Executar
                 },
             });
 
