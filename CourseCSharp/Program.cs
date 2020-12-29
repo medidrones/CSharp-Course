@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using CourseCSharp;
 using CourseCSharp.Fundamentos;
 using CourseCSharp.EstruturasDeControle;
+using CourseCSharp.ClassesEMetodos;
 
 namespace CursoCSharp
 {
@@ -89,6 +90,59 @@ namespace CursoCSharp
                 },
                 {
                     "Usando Continue - Estruturas de Controle", UsandoContinue.Executar
+                },
+
+                // Classes & Métodos
+                {
+                    "Membros - Classes e Métodos", Membros.Executar
+                },
+                {
+                    "Construtores - Classes e Métodos", Construtores.Executar
+                },
+                {
+                    "Metodos com Retorno - Classes e Métodos", MetodosComRetorno.Executar
+                },
+                {
+                    "Metodos Estáticos - Classes e Métodos", MetodosEstaticos.Executar
+                },
+                {
+                    "Atributos Estáticos - Classes e Métodos", AtritubosEstaticos.Executar
+                },
+                {
+                    "Desafio Atributo - Classes e Métodos", DesafioAtributo.Executar
+                },
+                {
+                    "Params - Classes e Métodos", Params.Executar
+                },
+                {
+                    "Parâmetros Nomeados - Classes e Métodos", ParametrosNomeados.Executar
+                },
+                {
+                    "Getters & Setters - Classes e Métodos", GetSet.Executar
+                },
+                {
+                    "Props - Classes e Métodos", Props.Executar
+                },
+                {
+                    "Readonly - Classes e Métodos", Readonly.Executar
+                },
+                {
+                    "Enum - Classes e Métodos", ExemploEnum.Executar
+                },
+                {
+                    "Struct - Classes e Métodos", ExemploStruct.Executar
+                },
+                {
+                    "Struct vs Classe - Classes e Métodos", StructVsClasse.Executar
+                },
+                {
+                    "Valor vs Referência - Classes e Métodos", ValorVsReferencia.Executar
+                },
+                {
+                    "Parâmetro por Referência - Classes e Métodos", ParametrosPorReferencia.Executar
+                },
+                {
+                    "Parâmetro com Valor Padrão - Classes e Métodos", ParametroPadrao.Executar
                 },
             });
 
