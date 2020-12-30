@@ -5,6 +5,7 @@ using CourseCSharp.Fundamentos;
 using CourseCSharp.EstruturasDeControle;
 using CourseCSharp.ClassesEMetodos;
 using CourseCSharp.Colecoes;
+using CourseCSharp.OrientacaoObjetos;
 
 namespace CursoCSharp
 {
@@ -170,6 +171,29 @@ namespace CursoCSharp
                 },
                 {
                     "Dictionary - Coleções", UsandoDictionary.Executar
+                },
+
+                // Orientação a Objetos
+                {
+                    "Herança - Orientação a Objetos", Heranca.Executar
+                },
+                {
+                    "Construtor Usando o This - Orientação a Objetos", ConstrutorThis.Executar
+                },
+                {
+                    "Encapsulamento - Orientação a Objetos", UsandoEncapsulamento.Executar
+                },
+                {
+                    "Polimorfismo - Orientação a Objetos", UsandoPolimorfismo.Executar
+                },
+                {
+                    "Classe Abstrata - Orientação a Objetos", ClasseAbstrata.Executar
+                },
+                {
+                    "Interface - Orientação a Objetos", UsandoInterface.Executar
+                },
+                {
+                    "Classe e Método Sealed - Orientação a Objetos", ClasseSealed.Executar
                 },
             });
 

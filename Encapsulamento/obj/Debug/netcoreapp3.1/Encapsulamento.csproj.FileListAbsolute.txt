@@ -1,0 +1,8 @@
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb

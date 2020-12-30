@@ -11,3 +11,6 @@ G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\C
 G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.dll
 G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.pdb
 G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.genruntimeconfig.cache
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+G:\Estudo\Udemy\Developer\C#\CourseCSharp\CourseCSharp\obj\Debug\netcoreapp3.1\CourseCSharp.csproj.CopyComplete

@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Encapsulamento/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Encapsulamento.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Encapsulamento.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Encapsulamento/1.0.0": {
-      "type": "project",
-      "path": "../Encapsulamento/Encapsulamento.csproj",
-      "msbuildProject": "../Encapsulamento/Encapsulamento.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Encapsulamento >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Medina\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Estudo\\Udemy\\Developer\\C#\\CourseCSharp\\CourseCSharp\\CourseCSharp.csproj",
-      "projectName": "CourseCSharp",
-      "projectPath": "G:\\Estudo\\Udemy\\Developer\\C#\\CourseCSharp\\CourseCSharp\\CourseCSharp.csproj",
+      "projectUniqueName": "G:\\Estudo\\Udemy\\Developer\\C#\\CourseCSharp\\Encapsulamento\\Encapsulamento.csproj",
+      "projectName": "Encapsulamento",
+      "projectPath": "G:\\Estudo\\Udemy\\Developer\\C#\\CourseCSharp\\Encapsulamento\\Encapsulamento.csproj",
       "packagesPath": "C:\\Users\\Medina\\.nuget\\packages\\",
-      "outputPath": "G:\\Estudo\\Udemy\\Developer\\C#\\CourseCSharp\\CourseCSharp\\obj\\",
+      "outputPath": "G:\\Estudo\\Udemy\\Developer\\C#\\CourseCSharp\\Encapsulamento\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,11 +37,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "G:\\Estudo\\Udemy\\Developer\\C#\\CourseCSharp\\Encapsulamento\\Encapsulamento.csproj": {
-              "projectPath": "G:\\Estudo\\Udemy\\Developer\\C#\\CourseCSharp\\Encapsulamento\\Encapsulamento.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
