@@ -4,6 +4,7 @@ using CourseCSharp;
 using CourseCSharp.Fundamentos;
 using CourseCSharp.EstruturasDeControle;
 using CourseCSharp.ClassesEMetodos;
+using CourseCSharp.Colecoes;
 
 namespace CursoCSharp
 {
@@ -143,6 +144,32 @@ namespace CursoCSharp
                 },
                 {
                     "Parâmetro com Valor Padrão - Classes e Métodos", ParametroPadrao.Executar
+                },
+
+                // Coleções
+                {
+                    "Array - Coleções", UsandoArray.Executar
+                },
+                {
+                    "List - Coleções", UsandoList.Executar
+                },
+                {
+                    "Array List - Coleções", UsandoArrayList.Executar
+                },
+                {
+                    "Set - Coleções", UsandoSet.Executar
+                },
+                {
+                    "Queue - Coleções", UsandoQueue.Executar
+                },
+                {
+                    "Igualdade - Coleções", Igualdade.Executar
+                },
+                {
+                    "Stack - Coleções", UsandoStack.Executar
+                },
+                {
+                    "Dictionary - Coleções", UsandoDictionary.Executar
                 },
             });
 
