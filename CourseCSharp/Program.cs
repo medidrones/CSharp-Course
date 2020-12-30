@@ -7,6 +7,7 @@ using CourseCSharp.ClassesEMetodos;
 using CourseCSharp.Colecoes;
 using CourseCSharp.OrientacaoObjetos;
 using CourseCSharp.MetodosFuncoes;
+using CourseCSharp.Excecoes;
 
 namespace CursoCSharp
 {
@@ -215,6 +216,14 @@ namespace CursoCSharp
                 },
                 {
                     "Métodos de Extensão - Métodos e Funções", MetodosExtensao.Executar
+                },
+
+                // Exceções
+                {
+                    "Exceções e Tratamento de Erro - Exceções", ExcecoesTratamentoErro.Executar
+                },
+                {
+                    "Criando Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar
                 },
             });
 
