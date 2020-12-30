@@ -6,6 +6,7 @@ using CourseCSharp.EstruturasDeControle;
 using CourseCSharp.ClassesEMetodos;
 using CourseCSharp.Colecoes;
 using CourseCSharp.OrientacaoObjetos;
+using CourseCSharp.MetodosFuncoes;
 
 namespace CursoCSharp
 {
@@ -194,6 +195,26 @@ namespace CursoCSharp
                 },
                 {
                     "Classe e Método Sealed - Orientação a Objetos", ClasseSealed.Executar
+                },
+
+                // Métodos & Funções
+                {
+                    "Exemplo Lambda - Métodos e Funções", ExemploLambda.Executar
+                },
+                {
+                    "Delegate com Lambda - Métodos e Funções", DelegateLambda.Executar
+                },
+                {
+                    "Usando Delegates - Métodos e Funções", UsandoDelegates.Executar
+                },
+                {
+                    "Delegate com Funções Anônimas - Métodos e Funções", DelegateFuncaoAnonima.Executar
+                },
+                {
+                    "Passando Delegate como Parâmetro - Métodos e Funções", DelegateParametro.Executar
+                },
+                {
+                    "Métodos de Extensão - Métodos e Funções", MetodosExtensao.Executar
                 },
             });
 
