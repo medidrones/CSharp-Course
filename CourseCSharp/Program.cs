@@ -8,6 +8,7 @@ using CourseCSharp.Colecoes;
 using CourseCSharp.OrientacaoObjetos;
 using CourseCSharp.MetodosFuncoes;
 using CourseCSharp.Excecoes;
+using CourseCSharp.Api;
 
 namespace CursoCSharp
 {
@@ -224,6 +225,32 @@ namespace CursoCSharp
                 },
                 {
                     "Criando Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar
+                },
+
+                 // Usando API
+                {
+                    "Primeiro Arquivo - Usando Api", PrimeiroArquivo.Executar
+                },
+                {
+                    "Lendo Arquivos - Usando Api", LendoArquivos.Executar
+                },
+                {
+                    "Usando FileInfo - Usando Api", UsandoFileInfo.Executar
+                },
+                {
+                    "Trabalhando com Diretórios - Usando Api", TrabalhandoDiretorios.Executar
+                },
+                {
+                    "Usando DirectoryInfo - Usando Api", UsandoDirectoryInfo.Executar
+                },
+                {
+                    "Usando Path - Usando Api", UsandoPath.Executar
+                },
+                {
+                    "Usando DateTime - Usando Api", UsandoDateTime.Executar
+                },
+                {
+                    "Usando TimeSpan - Usando Api", UsandoTimeSpan.Executar
                 },
             });
 
