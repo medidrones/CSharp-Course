@@ -9,6 +9,7 @@ using CourseCSharp.OrientacaoObjetos;
 using CourseCSharp.MetodosFuncoes;
 using CourseCSharp.Excecoes;
 using CourseCSharp.Api;
+using CourseCSharp.TopicosAvancados;
 
 namespace CursoCSharp
 {
@@ -251,6 +252,23 @@ namespace CursoCSharp
                 },
                 {
                     "Usando TimeSpan - Usando Api", UsandoTimeSpan.Executar
+                },
+
+                // Tópicos Avançados
+                {
+                    "Usando Linq #01 - Tópicos Avançados", UsandoLINQ1.Executar
+                },
+                {
+                    "Usando Linq #02 - Tópicos Avançados", UsandoLINQ2.Executar
+                },
+                {
+                    "Usando Nullabes - Tópicos Avançados", UsandoNullabes.Executar
+                },
+                {
+                    "Usando Dynamic - Tópicos Avançados", UsandoDynamic.Executar
+                },
+                {
+                    "Usando Generics - Tópicos Avançados", UsandoGenerics.Executar
                 },
             });
 
